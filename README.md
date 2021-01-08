@@ -1,2 +1,2 @@
 # Projects
-I classify here all projects I have done so far.
+I classified here all projects I have done so far.
